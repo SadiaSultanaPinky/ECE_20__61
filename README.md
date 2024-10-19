@@ -11,11 +11,11 @@
 <br>
 <br>
 
-| Submitted to  | | | | | | |  | | | |  | Submitted by |
-   | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | -----| ----- | ----- | ----- |----- | 
-   | Oishi Jyoti | | | | | | | | | | | | Sadia Sultana Pinky |
-   | Assistant Professor | | | | | | | | | | | | Roll: 2010061 |
-   | Department of ECE | | | | | | | | | | | | Department of ECE |
+| Submitted to    | Submitted by |
+   | -----  |----- | 
+   | Oishi Jyoti | Sadia Sultana Pinky |
+   | Assistant Professor | Roll: 2010061 |
+   | Department of ECE | Department of ECE |
 
 
 ---
